@@ -1,0 +1,13 @@
+S001,Coby,Cowan,27995
+S002,Sanaya,Macias,23583.01
+S003,Gerrard,Kaiser,23393.5
+S004,Jim Faustin,Obrien,2899.9
+S005,Ashwin,Norris,3884.85
+S006,Cathal,Drummond,26895.5
+S007,Oliwier,Frey,18193
+S008,Richard,Lowe,4599.8
+S009,Shannon,Kennedy,6899
+S010,Hadley,Norman,3049.5
+S011,Marie,Curie,0
+S012,Mohammad,Esmaeilpour,9099
+S013,Laura,Varela,0

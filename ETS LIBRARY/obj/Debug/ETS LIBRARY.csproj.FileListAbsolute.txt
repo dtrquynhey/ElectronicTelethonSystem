@@ -1,0 +1,24 @@
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.AssemblyReference.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.AssemblyReference.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.AssemblyReference.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.AssemblyReference.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS LIBRARY\obj\Debug\ETS LIBRARY.pdb

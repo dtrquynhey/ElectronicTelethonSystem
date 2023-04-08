@@ -1,0 +1,5 @@
+﻿Electronic Telethon System (ETS) - .NET framework application
+The system keeps track of sponsors and their prizes, donors and their donation, as well as the allocation of prizes.
+
+Copyright © 2022 by Truc Quynh Dang
+Content by Mohammad Esmaeilpour

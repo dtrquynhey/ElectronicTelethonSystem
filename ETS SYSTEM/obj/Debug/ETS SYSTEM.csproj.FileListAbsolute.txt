@@ -1,0 +1,75 @@
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.LoginForm.resources
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.Properties.Resources.resources
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.GenerateResource.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe.config
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.exe
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CopyComplete
+C:\Users\trucq\OneDrive\Documents\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.SystemForm.resources
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe.config
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.LoginForm.resources
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.Properties.Resources.resources
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.SystemForm.resources
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.GenerateResource.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CopyComplete
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.exe
+C:\Users\trucq\OneDrive\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe.config
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.LoginForm.resources
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.Properties.Resources.resources
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.SystemForm.resources
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.GenerateResource.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CopyComplete
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Desktop\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe.config
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.LoginForm.resources
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.Properties.Resources.resources
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.SystemForm.resources
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.GenerateResource.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CopyComplete
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Desktop\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe.config
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS SYSTEM.pdb
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.dll
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\bin\Debug\ETS LIBRARY.pdb
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.LoginForm.resources
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.Properties.Resources.resources
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS_SYSTEM.SystemForm.resources
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.GenerateResource.cache
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.csproj.CopyComplete
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.exe
+C:\Users\trucq\Documents\LaSalle\3rd_Semester\Multi-tier Application\Project_ETS\ETS SYSTEM\obj\Debug\ETS SYSTEM.pdb
