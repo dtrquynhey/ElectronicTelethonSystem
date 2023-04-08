@@ -5,6 +5,4 @@ During the project conduction, I have not followed the steps and procedure in th
 Belowed is the description of all directories and files included in my project, please refer to the two PDFs project_description to get all the ideas:
 The folder ETS LIBRARY is my code library which is referenced in my application.
 The folder ETS SYSTEM is my application in which contains .sln file to run the application.
-The file-note.txt is a text file of all initial data (sponsors, donors, prizes and donation) needed to test my functions and buttons.
-
-
+The file-note.txt is a text file of all initial data (sponsors, donors, prizes and donations) needed to test the app.
